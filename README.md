@@ -40,6 +40,8 @@ Evaluate the model with testing data
 Plot the performnace
 
 ## PROGRAM
+### Name:S.Sanjay
+### Reg no:212221230086
 ## FOR TRAINING
 ```
 import numpy as np
